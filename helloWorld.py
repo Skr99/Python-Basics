@@ -6,3 +6,4 @@ or console the value that you pass within the parentheses.
 '''
 
 print("Hello World!")
+print("Python is the best programming language for development")
